@@ -1,0 +1,401 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML><HEAD></HEAD><BODY>
+<OBJECT type="text/site properties">
+<param name="FrameName" value="right">
+</OBJECT>
+<UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="tests_8cpp.html#afc30e481f763a8d68a861dba91be7316"><param name="Name" value="_CRTDBG_MAP_ALLOC"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="tests_8cpp.html#afc30e481f763a8d68a861dba91be7316"><param name="Name" value="tests.cpp"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_xD0_x9B_xD0_xB0_xD0_xB1_xD0_xBE_xD1_x80_xD0_xB0_xD1_x82_xD0_xBE_xD1_x80_xD0_xBD_xD0_xB0_xD1_x8F7a0713c3480b03f8deec0e343fb64c14.html#afc30e481f763a8d68a861dba91be7316"><param name="Name" value="_CRTDBG_MAP_ALLOC"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_metod.html#a5c6a132740cbded41e25d213e0a14a11"><param name="Name" value="add_el"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_metod.html#a5c6a132740cbded41e25d213e0a14a11"><param name="Name" value="CMetod"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_metod.html#acbede7ae22e3bd8c4e87665790b87ce7"><param name="Name" value="add_el"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_country.html"><param name="Name" value="CCountry"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_c_country_8h.html#a6304afcee1a13f8971342f6a3fb4b7eb"><param name="Name" value="CCountry.h"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_country.html"><param name="Name" value="CCountry"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_country.html#a89187fd9ac898054af4ba9154f52cdaa"><param name="Name" value="CCountry"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_country.html"><param name="Name" value="CCountry"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_country.html#a99e5e8c9ade0ef27383ff65903c40a4d"><param name="Name" value="CCountry"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_country.html"><param name="Name" value="CCountry"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_country.html#afd851b5541ad5abf5e1ba9cddeacdfd3"><param name="Name" value="CCountry"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_country.html"><param name="Name" value="CCountry"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_country.html#ac133bb2e950ec8384a23733d16d42bbe"><param name="Name" value="getArea"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_country.html"><param name="Name" value="CCountry"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_country.html#a7a7778e6410ecbc041e9a20a31458047"><param name="Name" value="getBirthday_citizen"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_country.html"><param name="Name" value="CCountry"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_country.html#a21365933783574c03605579690830415"><param name="Name" value="getInfo"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_country.html"><param name="Name" value="CCountry"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_country.html#a9b5f9341c7e551a132379bf5f8aaa125"><param name="Name" value="getKol_Nationality"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_country.html"><param name="Name" value="CCountry"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_country.html#a763836b04780864e94a170d37d16dafc"><param name="Name" value="getMonarchy"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_country.html"><param name="Name" value="CCountry"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_country.html#afb38d599294bec791e89177a6eee8c1b"><param name="Name" value="getNumber_of_cities"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_country.html"><param name="Name" value="CCountry"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_country.html#af32c11125305d0d18a8cf541facb282a"><param name="Name" value="getPlace_of_birth_citizen"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_country.html"><param name="Name" value="CCountry"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_country.html#a830f1eb38506ec21e910555f73010d65"><param name="Name" value="getPopulation"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_country.html"><param name="Name" value="CCountry"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_country.html#a793d1b19235cecb28bbdb151f1eabc4d"><param name="Name" value="getPopulation_density"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_country.html"><param name="Name" value="CCountry"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_country.html#a5f81420f7f60a130b8b5c8ec0c6a93f0"><param name="Name" value="getTitle"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_country.html"><param name="Name" value="CCountry"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_country.html#a6d880adaab3241449990d14c0884751e"><param name="Name" value="getUnical_index"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_country.html"><param name="Name" value="CCountry"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_country.html#af052af8092ec530f49d11ab55096297f"><param name="Name" value="setArea"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_country.html"><param name="Name" value="CCountry"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_country.html#ad56b216f62432137a9f47db91fc36118"><param name="Name" value="setBirthday_citizen"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_country.html"><param name="Name" value="CCountry"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_country.html#aa713c887676692461e49cabf50142021"><param name="Name" value="setKol_Nationality"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_country.html"><param name="Name" value="CCountry"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_country.html#a6e9b22c14f2ac5b3174749f738fec6db"><param name="Name" value="setNumber_of_cities"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_country.html"><param name="Name" value="CCountry"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_country.html#ad5345ec5771d29ff46557e3c2ea0196e"><param name="Name" value="setPlace_of_birth_citizen"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_country.html"><param name="Name" value="CCountry"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_country.html#a08d5d4545c4617650642be87ba796240"><param name="Name" value="setPopulation"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_country.html"><param name="Name" value="CCountry"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_country.html#a1a6de64693652101dc24902620032234"><param name="Name" value="setPopulation_density"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_country.html"><param name="Name" value="CCountry"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_country.html#a38d041733ad2448fa310aa681b65d08a"><param name="Name" value="setTitle"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_country.html"><param name="Name" value="CCountry"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_country.html#a89e4757ba66933ddb7d97c3ed7b0d8fa"><param name="Name" value="setUnical_index"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_country.html#a79b61bb66d4da30e73b727756db19b36"><param name="Name" value="CCountry"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_metod.html#ac6c6782459a3ba1c860d62f43fdba1fa"><param name="Name" value="check_str"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_c_country_8h.html#a6304afcee1a13f8971342f6a3fb4b7eb"><param name="Name" value="Cint"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_metod.html"><param name="Name" value="CMetod"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_c_metod_8cpp.html"><param name="Name" value="CMetod.cpp"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_c_metod_8cpp.html#a0f85ff8f386328e7e20cfff4d8a394d9"><param name="Name" value="sortArea"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_c_metod_8cpp.html"><param name="Name" value="CMetod.cpp"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_c_metod_8cpp.html#a287dcd3dc09245c0cd3bac6ccbd26a9c"><param name="Name" value="sortCitizen"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_c_metod_8cpp.html"><param name="Name" value="CMetod.cpp"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_c_metod_8cpp.html#a503783ddd20cd6816d939097c2963cf8"><param name="Name" value="sortNumber_of_cities"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_c_metod_8cpp.html"><param name="Name" value="CMetod.cpp"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_c_metod_8cpp.html#a974bbb6fb9cce83951f7295bc351463a"><param name="Name" value="sortPopulation"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_c_metod_8cpp.html#a6abc715aec89fae3ed61d0525894896f"><param name="Name" value="CMetod.cpp"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_c_metod_8h.html"><param name="Name" value="CMetod.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_c_metod_8h.html#ae7c82fa23ea552ba22d74e499c85461c"><param name="Name" value="sortArea"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_c_metod_8h.html"><param name="Name" value="CMetod.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_c_metod_8h.html#a625c8397a606ecdb6d2718dd70c45081"><param name="Name" value="sortCitizen"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_c_metod_8h.html"><param name="Name" value="CMetod.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_c_metod_8h.html#a6909fe486aa9906231d37247db56bf4e"><param name="Name" value="sortNumber_of_cities"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_c_metod_8h.html"><param name="Name" value="CMetod.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_c_metod_8h.html#a1bc3fec3c027c0eee8fc0bdb73451a6f"><param name="Name" value="sortPopulation"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_c_metod_8h.html#a59ef0ffaa3e6e8445e2dad7cafeb7cb9"><param name="Name" value="CMetod.h"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_metod.html"><param name="Name" value="CMetod"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_metod.html#a5c6a132740cbded41e25d213e0a14a11"><param name="Name" value="add_el"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_metod.html"><param name="Name" value="CMetod"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_metod.html#acbede7ae22e3bd8c4e87665790b87ce7"><param name="Name" value="add_el"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_metod.html"><param name="Name" value="CMetod"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_metod.html#ac6c6782459a3ba1c860d62f43fdba1fa"><param name="Name" value="check_str"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_metod.html"><param name="Name" value="CMetod"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_metod.html#a0a329f1be14c7cbfb73f432db0f16493"><param name="Name" value="del_all"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_metod.html"><param name="Name" value="CMetod"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_metod.html#a299b71791080654b54dad8effdb28e29"><param name="Name" value="find_to_index"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_metod.html"><param name="Name" value="CMetod"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_metod.html#aca4c998d1fa5aa2e8c3df99f212141f6"><param name="Name" value="find_to_population_density"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_metod.html"><param name="Name" value="CMetod"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_metod.html#a2a33290714a7ee3ad7bbc895524de577"><param name="Name" value="find_to_str_by_file"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_metod.html"><param name="Name" value="CMetod"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_metod.html#a8d2ae671b6bec416c65a154eea2416cc"><param name="Name" value="get_str_by_file"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_metod.html"><param name="Name" value="CMetod"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_metod.html#ac213b4771ed1aa85db5fbf73ad9b730d"><param name="Name" value="get_to_Screen"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_metod.html"><param name="Name" value="CMetod"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_metod.html#a6e37dd79540fce8c68fa26c14c3b6a75"><param name="Name" value="print_all"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_metod.html"><param name="Name" value="CMetod"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_metod.html#a530937760b93f6c30b01191d870aae80"><param name="Name" value="print_all_with_2_or_more_words"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_metod.html"><param name="Name" value="CMetod"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_metod.html#af69e525d9c7b8fa01fd4763369882c83"><param name="Name" value="read_from_file"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_metod.html"><param name="Name" value="CMetod"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_metod.html#a4d2f1966aa5737a4970c25ffb96101ea"><param name="Name" value="remove_el"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_metod.html"><param name="Name" value="CMetod"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_metod.html#a9797ccbf3f7453368692a9f4cec3a278"><param name="Name" value="sort"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_metod.html#ae2e6045efbfec68b8cbc358afad0470c"><param name="Name" value="CMetod"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_xD1itizen.html"><param name="Name" value="CÑitizen"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_xD1itizen.html"><param name="Name" value="CÑitizen"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_xD1itizen.html#aea09f7b5b0eb1d65b147f2a5fe755153"><param name="Name" value="getBirthday_citizen"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_xD1itizen.html"><param name="Name" value="CÑitizen"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_xD1itizen.html#a984361bcde2390914a64903c836985aa"><param name="Name" value="getPlace_of_birth_citizen"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_xD1itizen.html"><param name="Name" value="CÑitizen"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_xD1itizen.html#a8bf57b1db6023b09e67ea37c9dcf17cb"><param name="Name" value="setBirthday_citizen"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_xD1itizen.html#aaefe003950d4f6e54efccff884d93390"><param name="Name" value="CÑitizen"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_metod.html#a0a329f1be14c7cbfb73f432db0f16493"><param name="Name" value="del_all"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_metod.html#a299b71791080654b54dad8effdb28e29"><param name="Name" value="find_to_index"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_metod.html#aca4c998d1fa5aa2e8c3df99f212141f6"><param name="Name" value="find_to_population_density"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_metod.html#a2a33290714a7ee3ad7bbc895524de577"><param name="Name" value="find_to_str_by_file"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_metod.html#a8d2ae671b6bec416c65a154eea2416cc"><param name="Name" value="get_str_by_file"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_metod.html#ac213b4771ed1aa85db5fbf73ad9b730d"><param name="Name" value="get_to_Screen"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_country.html#ac133bb2e950ec8384a23733d16d42bbe"><param name="Name" value="getArea"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_country.html#a7a7778e6410ecbc041e9a20a31458047"><param name="Name" value="getBirthday_citizen"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_country.html#a7a7778e6410ecbc041e9a20a31458047"><param name="Name" value="CCountry"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_xD1itizen.html#aea09f7b5b0eb1d65b147f2a5fe755153"><param name="Name" value="getBirthday_citizen"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_inheritor___xD1_xD1ountry__second.html#a074f160260d7908acf665d6f76776412"><param name="Name" value="getGross_domestic_product"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_country.html#a21365933783574c03605579690830415"><param name="Name" value="getInfo"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_country.html#a21365933783574c03605579690830415"><param name="Name" value="CCountry"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_inheritor___xD1_xD1ountry.html#a2567c1a4866025443fccf84553735430"><param name="Name" value="getInfo"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_inheritor___xD1_xD1ountry.html#a2567c1a4866025443fccf84553735430"><param name="Name" value="Inheritor_ÑÑountry"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_inheritor___xD1_xD1ountry__second.html#a80fde73bb9be428cc61d8cbbb622e029"><param name="Name" value="getInfo"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_country.html#a9b5f9341c7e551a132379bf5f8aaa125"><param name="Name" value="getKol_Nationality"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_country.html#a9b5f9341c7e551a132379bf5f8aaa125"><param name="Name" value="CCountry"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_xD1_nationality.html#aecf3c6f074b231c9373fd107b1f6ca60"><param name="Name" value="getKol_Nationality"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_country.html#a763836b04780864e94a170d37d16dafc"><param name="Name" value="getMonarchy"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_country.html#a763836b04780864e94a170d37d16dafc"><param name="Name" value="CCountry"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_inheritor___xD1_xD1ountry.html#ae351a0a0d786b5364badf4e92afc923a"><param name="Name" value="getMonarchy"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_country.html#afb38d599294bec791e89177a6eee8c1b"><param name="Name" value="getNumber_of_cities"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_country.html#af32c11125305d0d18a8cf541facb282a"><param name="Name" value="getPlace_of_birth_citizen"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_country.html#af32c11125305d0d18a8cf541facb282a"><param name="Name" value="CCountry"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_xD1itizen.html#a984361bcde2390914a64903c836985aa"><param name="Name" value="getPlace_of_birth_citizen"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_country.html#a830f1eb38506ec21e910555f73010d65"><param name="Name" value="getPopulation"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_country.html#a793d1b19235cecb28bbdb151f1eabc4d"><param name="Name" value="getPopulation_density"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_country.html#a5f81420f7f60a130b8b5c8ec0c6a93f0"><param name="Name" value="getTitle"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_country.html#a6d880adaab3241449990d14c0884751e"><param name="Name" value="getUnical_index"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_inheritor___xD1_xD1ountry.html"><param name="Name" value="Inheritor_ÑÑountry"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_inheritor___xD1_xD1ountry.html"><param name="Name" value="Inheritor_ÑÑountry"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_inheritor___xD1_xD1ountry.html#a2567c1a4866025443fccf84553735430"><param name="Name" value="getInfo"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_inheritor___xD1_xD1ountry.html"><param name="Name" value="Inheritor_ÑÑountry"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_inheritor___xD1_xD1ountry.html#ae351a0a0d786b5364badf4e92afc923a"><param name="Name" value="getMonarchy"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_inheritor___xD1_xD1ountry.html"><param name="Name" value="Inheritor_ÑÑountry"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_inheritor___xD1_xD1ountry.html#a0163806a9a5d5e7a7bdbbf7750a3842e"><param name="Name" value="Inheritor_ÑÑountry"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_inheritor___xD1_xD1ountry.html"><param name="Name" value="Inheritor_ÑÑountry"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_inheritor___xD1_xD1ountry.html#a2f7d91f303467c87a87d934fba81d9a3"><param name="Name" value="Inheritor_ÑÑountry"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_inheritor___xD1_xD1ountry.html"><param name="Name" value="Inheritor_ÑÑountry"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_inheritor___xD1_xD1ountry.html#aed3ac401e9f99a9392ab988f07e3052f"><param name="Name" value="Inheritor_ÑÑountry"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_inheritor___xD1_xD1ountry.html"><param name="Name" value="Inheritor_ÑÑountry"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_inheritor___xD1_xD1ountry.html#ac70edb4e75118bbc0b153dbe115db2f3"><param name="Name" value="setMonarchy"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_inheritor___xD1_xD1ountry.html#aa29803e54ab550276675ee22533815c9"><param name="Name" value="Inheritor_ÑÑountry"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_inheritor___xD1_xD1ountry__second.html"><param name="Name" value="Inheritor_ÑÑountry_second"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_inheritor___xD1_xD1ountry__second.html"><param name="Name" value="Inheritor_ÑÑountry_second"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_inheritor___xD1_xD1ountry__second.html#a074f160260d7908acf665d6f76776412"><param name="Name" value="getGross_domestic_product"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_inheritor___xD1_xD1ountry__second.html"><param name="Name" value="Inheritor_ÑÑountry_second"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_inheritor___xD1_xD1ountry__second.html#a80fde73bb9be428cc61d8cbbb622e029"><param name="Name" value="getInfo"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_inheritor___xD1_xD1ountry__second.html"><param name="Name" value="Inheritor_ÑÑountry_second"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_inheritor___xD1_xD1ountry__second.html#add9807db2228d027ba087703b45b3b19"><param name="Name" value="Inheritor_ÑÑountry_second"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_inheritor___xD1_xD1ountry__second.html"><param name="Name" value="Inheritor_ÑÑountry_second"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_inheritor___xD1_xD1ountry__second.html#acf986c23f5ffa254e82c5e54f8723cd9"><param name="Name" value="Inheritor_ÑÑountry_second"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_inheritor___xD1_xD1ountry__second.html"><param name="Name" value="Inheritor_ÑÑountry_second"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_inheritor___xD1_xD1ountry__second.html#a27fc407bd185d4a2b40023489adbaab8"><param name="Name" value="Inheritor_ÑÑountry_second"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_inheritor___xD1_xD1ountry__second.html"><param name="Name" value="Inheritor_ÑÑountry_second"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_inheritor___xD1_xD1ountry__second.html#aa14c1a806599f1bf4c74aeac475d1b81"><param name="Name" value="setGross_domestic_product"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_inheritor___xD1_xD1ountry__second.html#ac451cf6e6c2fdeebc387562f643564b2"><param name="Name" value="Inheritor_ÑÑountry_second"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="tests_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4"><param name="Name" value="main"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="tests_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4"><param name="Name" value="tests.cpp"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_xD0_x9B_xD0_xB0_xD0_xB1_xD0_xBE_xD1_x80_xD0_xB0_xD1_x82_xD0_xBE_xD1_x80_xD0_xBD_xD0_xB0_xD1_x8F7a0713c3480b03f8deec0e343fb64c14.html#ae66f6b31b5ad750f1fe042a706a4e3d4"><param name="Name" value="main"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="menu_8cpp.html#a2a0e843767aeea4f433a28b9c54f573a"><param name="Name" value="menu.cpp"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="menu_8h.html#a2a0e843767aeea4f433a28b9c54f573a"><param name="Name" value="menu.h"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="menu_8cpp.html#a2a0e843767aeea4f433a28b9c54f573a"><param name="Name" value="menu"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="menu_8cpp.html#a2a0e843767aeea4f433a28b9c54f573a"><param name="Name" value="menu.cpp"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="menu_8h.html#a2a0e843767aeea4f433a28b9c54f573a"><param name="Name" value="menu"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_metod.html#a6e37dd79540fce8c68fa26c14c3b6a75"><param name="Name" value="print_all"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_metod.html#a530937760b93f6c30b01191d870aae80"><param name="Name" value="print_all_with_2_or_more_words"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_metod.html#af69e525d9c7b8fa01fd4763369882c83"><param name="Name" value="read_from_file"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_metod.html#a4d2f1966aa5737a4970c25ffb96101ea"><param name="Name" value="remove_el"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_country.html#af052af8092ec530f49d11ab55096297f"><param name="Name" value="setArea"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_country.html#ad56b216f62432137a9f47db91fc36118"><param name="Name" value="setBirthday_citizen"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_country.html#ad56b216f62432137a9f47db91fc36118"><param name="Name" value="CCountry"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_xD1itizen.html#a8bf57b1db6023b09e67ea37c9dcf17cb"><param name="Name" value="setBirthday_citizen"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_inheritor___xD1_xD1ountry__second.html#aa14c1a806599f1bf4c74aeac475d1b81"><param name="Name" value="setGross_domestic_product"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_country.html#aa713c887676692461e49cabf50142021"><param name="Name" value="setKol_Nationality"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_country.html#aa713c887676692461e49cabf50142021"><param name="Name" value="CCountry"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_xD1_nationality.html#a6db0127878071964bd84419d6e6ac094"><param name="Name" value="setKol_Nationality"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_inheritor___xD1_xD1ountry.html#ac70edb4e75118bbc0b153dbe115db2f3"><param name="Name" value="setMonarchy"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_country.html#a6e9b22c14f2ac5b3174749f738fec6db"><param name="Name" value="setNumber_of_cities"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_country.html#ad5345ec5771d29ff46557e3c2ea0196e"><param name="Name" value="setPlace_of_birth_citizen"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_country.html#ad5345ec5771d29ff46557e3c2ea0196e"><param name="Name" value="CCountry"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_xD1itizen.html#aaefe003950d4f6e54efccff884d93390"><param name="Name" value="setPlace_of_birth_citizen"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_country.html#a08d5d4545c4617650642be87ba796240"><param name="Name" value="setPopulation"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_country.html#a1a6de64693652101dc24902620032234"><param name="Name" value="setPopulation_density"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_country.html#a38d041733ad2448fa310aa681b65d08a"><param name="Name" value="setTitle"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_country.html#a89e4757ba66933ddb7d97c3ed7b0d8fa"><param name="Name" value="setUnical_index"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_metod.html#a9797ccbf3f7453368692a9f4cec3a278"><param name="Name" value="sort"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_c_metod_8cpp.html#a0f85ff8f386328e7e20cfff4d8a394d9"><param name="Name" value="sortArea"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_c_metod_8cpp.html#a0f85ff8f386328e7e20cfff4d8a394d9"><param name="Name" value="CMetod.cpp"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_c_metod_8h.html#ae7c82fa23ea552ba22d74e499c85461c"><param name="Name" value="sortArea"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_c_metod_8cpp.html#a287dcd3dc09245c0cd3bac6ccbd26a9c"><param name="Name" value="sortCitizen"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_c_metod_8cpp.html#a287dcd3dc09245c0cd3bac6ccbd26a9c"><param name="Name" value="CMetod.cpp"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_c_metod_8h.html#a625c8397a606ecdb6d2718dd70c45081"><param name="Name" value="sortCitizen"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_c_metod_8cpp.html#a503783ddd20cd6816d939097c2963cf8"><param name="Name" value="sortNumber_of_cities"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_c_metod_8cpp.html#a503783ddd20cd6816d939097c2963cf8"><param name="Name" value="CMetod.cpp"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_c_metod_8h.html#a6909fe486aa9906231d37247db56bf4e"><param name="Name" value="sortNumber_of_cities"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_c_metod_8cpp.html#a974bbb6fb9cce83951f7295bc351463a"><param name="Name" value="sortPopulation"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_c_metod_8cpp.html#a974bbb6fb9cce83951f7295bc351463a"><param name="Name" value="CMetod.cpp"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_c_metod_8h.html#a1bc3fec3c027c0eee8fc0bdb73451a6f"><param name="Name" value="sortPopulation"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_c_metod_8cpp.html#a6abc715aec89fae3ed61d0525894896f"><param name="Name" value="sortTitle"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_c_metod_8cpp.html#a6abc715aec89fae3ed61d0525894896f"><param name="Name" value="CMetod.cpp"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_c_metod_8h.html#a59ef0ffaa3e6e8445e2dad7cafeb7cb9"><param name="Name" value="sortTitle"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="tests_8cpp.html"><param name="Name" value="tests.cpp"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="tests_8cpp.html#afc30e481f763a8d68a861dba91be7316"><param name="Name" value="_CRTDBG_MAP_ALLOC"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="tests_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4"><param name="Name" value="tests.cpp"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_metod.html#ae2e6045efbfec68b8cbc358afad0470c"><param name="Name" value="write_to_file"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_c_country.html#a79b61bb66d4da30e73b727756db19b36"><param name="Name" value="~CCountry"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_inheritor___xD1_xD1ountry.html#aa29803e54ab550276675ee22533815c9"><param name="Name" value="~Inheritor_ÑÑountry"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_inheritor___xD1_xD1ountry__second.html#ac451cf6e6c2fdeebc387562f643564b2"><param name="Name" value="~Inheritor_ÑÑountry_second"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_xD0_x9B_xD0_xB0_xD0_xB1_xD0_xBE_xD1_x80_xD0_xB0_xD1_x82_xD0_xBE_xD1_x80_xD0_xBD_xD0_xB0_xD1_x8F7a0713c3480b03f8deec0e343fb64c14.html"><param name="Name" value="Ð›Ð°Ð±Ð¾Ñ€Ð°Ñ‚Ð¾Ñ€Ð½Ð°Ñ Ñ€Ð°Ð±Ð¾Ñ‚Ð° â„– 7.cpp"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_xD0_x9B_xD0_xB0_xD0_xB1_xD0_xBE_xD1_x80_xD0_xB0_xD1_x82_xD0_xBE_xD1_x80_xD0_xBD_xD0_xB0_xD1_x8F7a0713c3480b03f8deec0e343fb64c14.html#afc30e481f763a8d68a861dba91be7316"><param name="Name" value="_CRTDBG_MAP_ALLOC"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_xD0_x9B_xD0_xB0_xD0_xB1_xD0_xBE_xD1_x80_xD0_xB0_xD1_x82_xD0_xBE_xD1_x80_xD0_xBD_xD0_xB0_xD1_x8F7a0713c3480b03f8deec0e343fb64c14.html#ae66f6b31b5ad750f1fe042a706a4e3d4"><param name="Name" value="Ð›Ð°Ð±Ð¾Ñ€Ð°Ñ‚Ð¾Ñ€Ð½Ð°Ñ Ñ€Ð°Ð±Ð¾Ñ‚Ð° â„– 7.cpp"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_xD1_nationality.html"><param name="Name" value="ÑNationality"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_xD1_nationality.html"><param name="Name" value="ÑNationality"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_xD1_nationality.html#aecf3c6f074b231c9373fd107b1f6ca60"><param name="Name" value="getKol_Nationality"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_xD1_nationality.html#a6db0127878071964bd84419d6e6ac094"><param name="Name" value="ÑNationality"></OBJECT>
+</UL>
+</BODY>
+</HTML>

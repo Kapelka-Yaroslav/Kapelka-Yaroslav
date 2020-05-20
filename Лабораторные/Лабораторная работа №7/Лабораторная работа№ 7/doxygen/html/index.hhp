@@ -1,0 +1,71 @@
+[OPTIONS]
+Compatibility=1.1
+Full-text search=Yes
+Contents file=index.hhc
+Default Window=main
+Default topic=index.html
+Index file=index.hhk
+Language=0x409 English (United States)
+Title=My Project
+
+[WINDOWS]
+main="My Project","index.hhc","index.hhk","index.html","index.html",,,,,0x23520,,0x10387e,,,,,,,,0
+
+[FILES]
+_c_country_8cpp_source.html
+_c_country_8h_source.html
+_c_metod_8cpp_source.html
+_c_metod_8h_source.html
+menu_8cpp_source.html
+menu_8h_source.html
+tests_8cpp_source.html
+_xD0_x9B_xD0_xB0_xD0_xB1_xD0_xBE_xD1_x80_xD0_xB0_xD1_x82_xD0_xBE_xD1_x80_xD0_xBD_xD0_xB0_xD1_x8F7a0713c3480b03f8deec0e343fb64c14_source.html
+_c_country_8cpp.html
+_c_country_8h.html
+_c_metod_8cpp.html
+_c_metod_8h.html
+menu_8cpp.html
+menu_8h.html
+tests_8cpp.html
+text_8txt.html
+_xD0_x9B_xD0_xB0_xD0_xB1_xD0_xBE_xD1_x80_xD0_xB0_xD1_x82_xD0_xBE_xD1_x80_xD0_xBD_xD0_xB0_xD1_x8F7a0713c3480b03f8deec0e343fb64c14.html
+class_c_country.html
+class_c_country-members.html
+class_c_metod.html
+class_c_metod-members.html
+class_c_xD1itizen.html
+class_c_xD1itizen-members.html
+class_inheritor___xD1_xD1ountry.html
+class_inheritor___xD1_xD1ountry-members.html
+class_inheritor___xD1_xD1ountry__second.html
+class_inheritor___xD1_xD1ountry__second-members.html
+class_xD1_nationality.html
+class_xD1_nationality-members.html
+dir_60d092985968163362260afbcbf0b0dd.html
+index.html
+annotated.html
+classes.html
+hierarchy.html
+functions.html
+functions_func.html
+files.html
+globals.html
+globals_func.html
+globals_type.html
+globals_defs.html
+tab_a.png
+tab_b.png
+tab_h.png
+tab_s.png
+nav_h.png
+nav_f.png
+bc_s.png
+doxygen.png
+closed.png
+open.png
+bdwn.png
+sync_on.png
+sync_off.png
+class_c_country.png
+class_inheritor___xD1_xD1ountry.png
+class_inheritor___xD1_xD1ountry__second.png

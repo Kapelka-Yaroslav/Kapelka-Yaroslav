@@ -1,0 +1,7 @@
+﻿  CCountry.cpp
+  CMetod.cpp
+  menu.cpp
+  Создание кода...
+C:\Users\Admin\source\repos\Лабораторная работа№3\Лабораторная работа№3\CMetod.cpp(79): warning C4715: CMetod::find_to_index: значение возвращается не при всех путях выполнения
+  tests.cpp
+  Лабораторная работа№3.vcxproj -> C:\Users\Admin\source\repos\Лабораторная работа№3\Test\Лабораторная работа№3.exe

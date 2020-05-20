@@ -1,0 +1,20 @@
+﻿  CCountry.cpp
+  CMetod.cpp
+C:\Users\Admin\source\repos\Лабораторная работа № 4\Лабораторная работа № 4\CMetod.cpp(89,12): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Лабораторная работа № 4\Лабораторная работа № 4\CMetod.cpp(94,44): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Лабораторная работа № 4\Лабораторная работа № 4\CMetod.cpp(116,24): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Admin\source\repos\Лабораторная работа № 4\Лабораторная работа № 4\CMetod.cpp(117,27): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Admin\source\repos\Лабораторная работа № 4\Лабораторная работа № 4\CMetod.cpp(121,32): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Admin\source\repos\Лабораторная работа № 4\Лабораторная работа № 4\CMetod.cpp(127,33): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Admin\source\repos\Лабораторная работа № 4\Лабораторная работа № 4\CMetod.cpp(133,33): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Admin\source\repos\Лабораторная работа № 4\Лабораторная работа № 4\CMetod.cpp(139,33): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Admin\source\repos\Лабораторная работа № 4\Лабораторная работа № 4\CMetod.cpp(178,17): warning C4129: !: неизвестная escape-последовательность
+C:\Users\Admin\source\repos\Лабораторная работа № 4\Лабораторная работа № 4\CMetod.cpp(178,17): warning C4129: /: неизвестная escape-последовательность
+C:\Users\Admin\source\repos\Лабораторная работа № 4\Лабораторная работа № 4\CMetod.cpp(188,19): warning C4129: !: неизвестная escape-последовательность
+C:\Users\Admin\source\repos\Лабораторная работа № 4\Лабораторная работа № 4\CMetod.cpp(188,19): warning C4129: .: неизвестная escape-последовательность
+C:\Users\Admin\source\repos\Лабораторная работа № 4\Лабораторная работа № 4\CMetod.cpp(188,19): warning C4129: ;: неизвестная escape-последовательность
+  menu.cpp
+  Создание кода...
+C:\Users\Admin\source\repos\Лабораторная работа № 4\Лабораторная работа № 4\CMetod.cpp(79): warning C4715: CMetod::find_to_index: значение возвращается не при всех путях выполнения
+  Лабораторная работа №4.cpp
+  Лабораторная работа № 4.vcxproj -> C:\Users\Admin\source\repos\Лабораторная№1\x64\Debug\Лабораторная работа № 4.exe

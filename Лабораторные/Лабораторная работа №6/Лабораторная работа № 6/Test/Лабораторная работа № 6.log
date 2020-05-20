@@ -1,0 +1,17 @@
+﻿  CMetod.cpp
+C:\Users\Admin\source\repos\Лабораторная работа № 6\Лабораторная работа № 6\CMetod.cpp(192,17): warning C4129: !: неизвестная escape-последовательность
+C:\Users\Admin\source\repos\Лабораторная работа № 6\Лабораторная работа № 6\CMetod.cpp(192,17): warning C4129: /: неизвестная escape-последовательность
+C:\Users\Admin\source\repos\Лабораторная работа № 6\Лабораторная работа № 6\CMetod.cpp(202,19): warning C4129: !: неизвестная escape-последовательность
+C:\Users\Admin\source\repos\Лабораторная работа № 6\Лабораторная работа № 6\CMetod.cpp(202,19): warning C4129: .: неизвестная escape-последовательность
+C:\Users\Admin\source\repos\Лабораторная работа № 6\Лабораторная работа № 6\CMetod.cpp(202,19): warning C4129: ;: неизвестная escape-последовательность
+C:\Users\Admin\source\repos\Лабораторная работа № 6\Лабораторная работа № 6\CMetod.cpp(467,17): warning C4129: !: неизвестная escape-последовательность
+C:\Users\Admin\source\repos\Лабораторная работа № 6\Лабораторная работа № 6\CMetod.cpp(467,17): warning C4129: /: неизвестная escape-последовательность
+C:\Users\Admin\source\repos\Лабораторная работа № 6\Лабораторная работа № 6\CMetod.cpp(477,19): warning C4129: !: неизвестная escape-последовательность
+C:\Users\Admin\source\repos\Лабораторная работа № 6\Лабораторная работа № 6\CMetod.cpp(477,19): warning C4129: .: неизвестная escape-последовательность
+C:\Users\Admin\source\repos\Лабораторная работа № 6\Лабораторная работа № 6\CMetod.cpp(477,19): warning C4129: ;: неизвестная escape-последовательность
+  menu.cpp
+  Создание кода...
+C:\Users\Admin\source\repos\Лабораторная работа № 6\Лабораторная работа № 6\CMetod.cpp(81): warning C4715: CMetod::find_to_index: значение возвращается не при всех путях выполнения
+C:\Users\Admin\source\repos\Лабораторная работа № 6\Лабораторная работа № 6\CMetod.cpp(350): warning C4715: Inheritor_CMetod::find_to_index: значение возвращается не при всех путях выполнения
+  tests.cpp
+  Лабораторная работа № 6.vcxproj -> C:\Users\Admin\source\repos\Лабораторная работа № 6\Test\Лабораторная работа № 6.exe
