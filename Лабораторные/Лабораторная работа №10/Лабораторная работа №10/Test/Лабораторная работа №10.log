@@ -1,0 +1,6 @@
+﻿  Function_class.cpp
+C:\Users\Admin\source\repos\Лабораторная работа №10\Лабораторная работа №10\Function_class.cpp(19): warning C4715: Function_class::find_index<int>: значение возвращается не при всех путях выполнения
+C:\Users\Admin\source\repos\Лабораторная работа №10\Лабораторная работа №10\Function_class.cpp(19): warning C4715: Function_class::find_index<float>: значение возвращается не при всех путях выполнения
+C:\Users\Admin\source\repos\Лабораторная работа №10\Лабораторная работа №10\Function_class.cpp(19): warning C4715: Function_class::find_index<drob>: значение возвращается не при всех путях выполнения
+  tests.cpp
+  Лабораторная работа №10.vcxproj -> C:\Users\Admin\source\repos\Лабораторная работа №10\Test\Лабораторная работа №10.exe

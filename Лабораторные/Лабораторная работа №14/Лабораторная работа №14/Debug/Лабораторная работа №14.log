@@ -1,0 +1,6 @@
+﻿  menu.cpp
+C:\Users\Admin\source\repos\Лабораторная работа №14\Лабораторная работа №14\menu.cpp(184,109): warning C4305: аргумент: усечение из "int" в "const bool"
+C:\Users\Admin\source\repos\Лабораторная работа №14\Лабораторная работа №14\menu.cpp(516,109): warning C4305: аргумент: усечение из "int" в "const bool"
+C:\Users\Admin\source\repos\Лабораторная работа №14\Лабораторная работа №14\menu.cpp(829,109): warning C4305: аргумент: усечение из "int" в "const bool"
+C:\Users\Admin\source\repos\Лабораторная работа №14\Лабораторная работа №14\menu.cpp(1026,109): warning C4305: аргумент: усечение из "int" в "const bool"
+  Лабораторная работа №14.vcxproj -> C:\Users\Admin\source\repos\Лабораторная работа №14\Debug\Лабораторная работа №14.exe

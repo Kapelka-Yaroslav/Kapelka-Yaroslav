@@ -1,0 +1,25 @@
+﻿  CCountry.cpp
+C:\Users\Admin\source\repos\Лабораторная работа №13\Лабораторная работа №13\CCountry.cpp(222,17): warning C4129: s: неизвестная escape-последовательность
+C:\Users\Admin\source\repos\Лабораторная работа №13\Лабораторная работа №13\CCountry.cpp(222,17): warning C4129: !: неизвестная escape-последовательность
+C:\Users\Admin\source\repos\Лабораторная работа №13\Лабораторная работа №13\CCountry.cpp(222,17): warning C4129: .: неизвестная escape-последовательность
+C:\Users\Admin\source\repos\Лабораторная работа №13\Лабораторная работа №13\CCountry.cpp(232,19): warning C4129: !: неизвестная escape-последовательность
+C:\Users\Admin\source\repos\Лабораторная работа №13\Лабораторная работа №13\CCountry.cpp(232,19): warning C4129: .: неизвестная escape-последовательность
+C:\Users\Admin\source\repos\Лабораторная работа №13\Лабораторная работа №13\CCountry.cpp(232,19): warning C4129: ;: неизвестная escape-последовательность
+  CMetod.cpp
+C:\Users\Admin\source\repos\Лабораторная работа №13\Лабораторная работа №13\CMetod.cpp(245,17): warning C4129: !: неизвестная escape-последовательность
+C:\Users\Admin\source\repos\Лабораторная работа №13\Лабораторная работа №13\CMetod.cpp(245,17): warning C4129: .: неизвестная escape-последовательность
+C:\Users\Admin\source\repos\Лабораторная работа №13\Лабораторная работа №13\CMetod.cpp(255,19): warning C4129: !: неизвестная escape-последовательность
+C:\Users\Admin\source\repos\Лабораторная работа №13\Лабораторная работа №13\CMetod.cpp(255,19): warning C4129: .: неизвестная escape-последовательность
+C:\Users\Admin\source\repos\Лабораторная работа №13\Лабораторная работа №13\CMetod.cpp(255,19): warning C4129: ;: неизвестная escape-последовательность
+C:\Users\Admin\source\repos\Лабораторная работа №13\Лабораторная работа №13\CMetod.cpp(360,41): warning C4806: ==: небезопасная операция: значение типа "bool", приведенное к типу "int", не может равняться данной константе
+  menu.cpp
+C:\Users\Admin\source\repos\Лабораторная работа №13\Лабораторная работа №13\menu.cpp(182,109): warning C4305: аргумент: усечение из "int" в "const bool"
+C:\Users\Admin\source\repos\Лабораторная работа №13\Лабораторная работа №13\menu.cpp(333,109): warning C4305: аргумент: усечение из "int" в "const bool"
+C:\Users\Admin\source\repos\Лабораторная работа №13\Лабораторная работа №13\menu.cpp(496,109): warning C4305: аргумент: усечение из "int" в "const bool"
+C:\Users\Admin\source\repos\Лабораторная работа №13\Лабораторная работа №13\menu.cpp(658,109): warning C4305: аргумент: усечение из "int" в "const bool"
+  Создание кода...
+C:\Users\Admin\source\repos\Лабораторная работа №13\Лабораторная работа №13\CMetod.cpp(113): warning C4715: CMetod::find_to_index: значение возвращается не при всех путях выполнения
+  tests.cpp
+C:\Users\Admin\source\repos\Лабораторная работа №13\Лабораторная работа №13\tests.cpp(7,81): warning C4305: аргумент: усечение из "int" в "const bool"
+C:\Users\Admin\source\repos\Лабораторная работа №13\Лабораторная работа №13\tests.cpp(8,90): warning C4305: аргумент: усечение из "int" в "const bool"
+  Лабораторная работа №13.vcxproj -> C:\Users\Admin\source\repos\Лабораторная работа №13\Test\Лабораторная работа №13.exe

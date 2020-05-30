@@ -1,0 +1,8 @@
+﻿  CCountry.cpp
+C:\Users\Admin\source\repos\Лабораторная работа № 8\Лабораторная работа № 8\CCountry.cpp(200,17): warning C4129: s: неизвестная escape-последовательность
+C:\Users\Admin\source\repos\Лабораторная работа № 8\Лабораторная работа № 8\CCountry.cpp(200,17): warning C4129: !: неизвестная escape-последовательность
+C:\Users\Admin\source\repos\Лабораторная работа № 8\Лабораторная работа № 8\CCountry.cpp(200,17): warning C4129: .: неизвестная escape-последовательность
+C:\Users\Admin\source\repos\Лабораторная работа № 8\Лабораторная работа № 8\CCountry.cpp(210,19): warning C4129: !: неизвестная escape-последовательность
+C:\Users\Admin\source\repos\Лабораторная работа № 8\Лабораторная работа № 8\CCountry.cpp(210,19): warning C4129: .: неизвестная escape-последовательность
+C:\Users\Admin\source\repos\Лабораторная работа № 8\Лабораторная работа № 8\CCountry.cpp(210,19): warning C4129: ;: неизвестная escape-последовательность
+  Лабораторная работа № 8.vcxproj -> C:\Users\Admin\source\repos\Лабораторная работа № 8\Debug\Лабораторная работа № 8.exe
